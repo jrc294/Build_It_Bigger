@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Joke Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="generic_error_msg">An error has occurred. Please check your network settings or try later.</string>
+</resources>
